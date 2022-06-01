@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "cocinar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "hacer ejercicio",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "bañarse",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "ir al super",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer la tarea",
+        "estado":"terminado"
+    }
+]
